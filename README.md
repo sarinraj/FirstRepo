@@ -21,3 +21,4 @@ Branch 2 created
 
 Branch 1 created
 
+Branch created in remote repo through git
