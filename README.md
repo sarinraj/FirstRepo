@@ -14,6 +14,10 @@ Dont compare youself with others
 
 GIT class is going
 
+
 Branch 2 created
 
+
+
+Branch 1 created
 
