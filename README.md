@@ -9,4 +9,8 @@ God bless you all
 
 this day is beautiful
 
+
 Dont compare youself with others
+
+GIT class is going
+
